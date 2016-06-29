@@ -75,6 +75,10 @@ img {
 	background-color: black;
 }
 
+.sw_section{
+	background-color: #DBF1FF;
+}
+
 #swLogo{
 /*	height: 100%;*/
 /*	width: 100%;*/
@@ -173,6 +177,14 @@ video {
 .filler-sw{
 	height: 25%;
 	background-color: #DBF1FF;
+}
+.filler-gray{
+	height: 25%;
+	background-color: #AFB1B1;
+}
+.thorBackground{
+	background-color: #AFB1B1;
+	margin-bottom: 0px;
 }
 .filler-sw-mini{
 	height: 5%;
