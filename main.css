@@ -244,6 +244,9 @@ ul {
 
 
 @media (max-width: 750px) {
+	.filler-med{
+		height: 55%;
+	}
 	#profileImage{
 		width: 100%;
 	}
