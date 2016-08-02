@@ -166,6 +166,11 @@ video {
 	height: 5%;
 	background-color: black;
 }
+.filler-med{
+	height: 25%;
+	background-color: black;
+}
+
 .filler{
 	height: 40%;
 	background-color: black;
