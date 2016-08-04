@@ -76,7 +76,7 @@ img {
 }
 
 .sw_section{
-	background-color: #DBF1FF;
+	background-color: white;
 }
 
 #swLogo{
@@ -165,6 +165,10 @@ video {
 .filler-small{
 	height: 5%;
 	background-color: black;
+}
+.filler-small-white{
+	height: 5%;
+	background-color: white;
 }
 .filler-med{
 	height: 25%;
