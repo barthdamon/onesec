@@ -30,6 +30,12 @@ a:hover {
   padding:0px;
 }
 
+.easImage{
+	margin-top:20px;
+	width:65%;
+	opacity: 0.7;
+}
+
 .col-centered{
 	display: block;
     margin-left: auto;
