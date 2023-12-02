@@ -165,7 +165,7 @@ video {
 	height: 25px;
 }
 .socialLink{
-	width: 25px;
+	width: 50px;
 	height: 100%;
 }
 .filler-small{
@@ -228,6 +228,7 @@ ul {
 .bottom-profile-company {
 	height: 50pt;
 	margin-top: 50px;
+	margin-bottom: 50px;
 }
 .social-row-bottom{
 	margin-bottom: 10px;
